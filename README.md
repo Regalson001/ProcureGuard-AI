@@ -1,5 +1,4 @@
 
-# ProcureGuard AI
 
 ### Autonomous Procurement & Supply Chain Audit Engine
 
